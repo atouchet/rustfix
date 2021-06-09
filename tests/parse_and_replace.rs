@@ -167,7 +167,7 @@ fn test_rustfix_with_file<P: AsRef<Path>>(file: P, mode: &str) -> Result<(), Err
 
         ensure!(
             expected_suggestions == suggestions,
-            "got unexpected suggestions from clippy:\n{}",
+            "got unexpected suggestions from Clippy:\n{}",
             diff(
                 &format!("{:?}", expected_suggestions),
                 &format!("{:?}", suggestions)

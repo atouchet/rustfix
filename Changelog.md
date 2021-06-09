@@ -69,11 +69,11 @@ Internal changes:
 
 - Filter by machine applicability by default
 
-[Unreleased]: https://github.com/rust-lang-nursery/rustfix/compare/rustfix-0.4.6...HEAD
-[0.4.6]: https://github.com/rust-lang-nursery/rustfix/compare/rustfix-0.4.5...rustfix-0.4.6
-[0.4.5]: https://github.com/rust-lang-nursery/rustfix/compare/rustfix-0.4.4...rustfix-0.4.5
-[0.4.4]: https://github.com/rust-lang-nursery/rustfix/compare/rustfix-0.4.3...rustfix-0.4.4
-[0.4.3]: https://github.com/rust-lang-nursery/rustfix/compare/rustfix-0.4.2...rustfix-0.4.3
-[0.4.2]: https://github.com/rust-lang-nursery/rustfix/compare/rustfix-0.4.1...rustfix-0.4.2
-[0.4.1]: https://github.com/rust-lang-nursery/rustfix/compare/rustfix-0.4.0...rustfix-0.4.1
-[0.4.0]: https://github.com/rust-lang-nursery/rustfix/compare/rustfix-0.4.0
+[Unreleased]: https://github.com/rust-lang/rustfix/compare/rustfix-0.4.6...HEAD
+[0.4.6]: https://github.com/rust-lang/rustfix/compare/rustfix-0.4.5...rustfix-0.4.6
+[0.4.5]: https://github.com/rust-lang/rustfix/compare/rustfix-0.4.4...rustfix-0.4.5
+[0.4.4]: https://github.com/rust-lang/rustfix/compare/rustfix-0.4.3...rustfix-0.4.4
+[0.4.3]: https://github.com/rust-lang/rustfix/compare/rustfix-0.4.2...rustfix-0.4.3
+[0.4.2]: https://github.com/rust-lang/rustfix/compare/rustfix-0.4.1...rustfix-0.4.2
+[0.4.1]: https://github.com/rust-lang/rustfix/compare/rustfix-0.4.0...rustfix-0.4.1
+[0.4.0]: https://github.com/rust-lang/rustfix/compare/rustfix-0.4.0
